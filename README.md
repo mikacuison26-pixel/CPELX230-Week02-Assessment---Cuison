@@ -1,2 +1,2 @@
 # CPELX230-Week02-Assessment---Cuison
-A PyTorch implementation analyzing the effects of optimizers, hidden layer widths, and activation functions on Artificial Neural Networks using Fashion-MNIST and CIFAR-10 datasets.
+Three-Layer ANN/MLP implementation for Fashion-MNIST classification using PyTorch, including hyperparameter experiments, performance evaluation, and computational constraint analysis.
